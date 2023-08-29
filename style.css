@@ -1,0 +1,27 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.carousel-control-prev-icon{
+    background-color: brown;
+}
+.carousel-control-next-icon{
+    background-color: brown;
+}
+.ratting{
+    width: 20px;
+}
+.d-flex{
+    gap: 24px;
+}
+.icon{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+}
+.icon img{
+    width: 100px;
+}
+.navbar-collapse{
+    color: azure !important;
+}
