@@ -6,5 +6,16 @@
     background-image:  linear-gradient(90deg, #181818 0%, rgba(24, 24, 24, 0.82) 24.48%, rgba(24, 24, 24, 0.00) 100%),
     url("./images/kawasaki-ninja-zx10r-1-min-scaled-.jpg");
     background-size: 100% 100%;
-   
+}
+.card-img-top{
+    overflow: hidden;
+}
+.ratting{
+    width: 15px;
+}
+.navbar-toggler{
+    background-color: aliceblue;
+}
+.icon img{
+    width: 100px;
 }
