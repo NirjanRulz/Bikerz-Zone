@@ -16,6 +16,9 @@
 .navbar-toggler{
     background-color: aliceblue;
 }
+.d-flex{
+    gap: 24px;
+}
 .icon img{
     width: 100px;
 }
